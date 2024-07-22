@@ -1,2 +1,2 @@
 # gmail-pop3-pull
-📧 Periodically polls POP3 accounts connected to Gmail for faster notifications.
+Based on the userscript by Daniel Slaughter, LLC and Thomas Kent.
